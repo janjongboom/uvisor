@@ -433,7 +433,6 @@ You can now modify the example or create a new one to protect your resources int
 
 * [uVisor API documentation](API.md).
 * [Debugging uVisor on mbed OS](DEBUGGING.md).
-* [Using non-volatile storage from uVisor on mbed OS](manual/Flash.md).
 
 If you found any bug or inconsistency in this guide, please [raise an issue](https://github.com/ARMmbed/uvisor/issues/new).
 
